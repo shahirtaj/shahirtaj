@@ -14,5 +14,3 @@ Recent Computer Science graduate of Bowdoin College with substantial full-stack 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahirtaj&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
