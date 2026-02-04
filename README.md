@@ -1,6 +1,6 @@
 # Hi, I'm Shahir 👋🏽
 
-Software Engineer with two years of full-stack development experience specializing in Python, Java, and JavaScript. Keen problem solver who can learn quickly and apply previous knowledge and novel, creative solutions to tackle challenges.
+Software Engineer with three years of full-stack development experience specializing in Python, C#/ASP.NET Core, and Java. Keen problem solver who can learn quickly and apply previous knowledge and novel, creative solutions to tackle challenges.
 
 ## Languages and Technologies
 
