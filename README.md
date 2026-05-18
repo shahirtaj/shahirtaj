@@ -1,6 +1,6 @@
 # Hi, I'm Shahir 👋🏽
 
-Full-stack engineer with 3+ years building enterprise platforms in Python, C#/.NET Core, TypeScript, and React. Currently at TransPerfect, previously at Matthews Media Group, building clinical trial systems. I like shipping fast; I built and launched [DoubleCheck](https://doublecheckff.com/), a fantasy football schedule generator, in two days using Cursor and Claude Code.
+Full-stack engineer with 3+ years building enterprise platforms in Python, C#/.NET Core, TypeScript, and React. Currently at TransPerfect, previously at Matthews Media Group. I like shipping fast; I built and launched [DoubleCheck](https://doublecheckff.com/), a fantasy football schedule generator, in two days using Cursor and Claude Code.
 
 ## Languages and Technologies
 
